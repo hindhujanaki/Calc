@@ -170,6 +170,50 @@ Publish the website in the given URL.
 ## OUTPUT:
 
 ![alt text](<Screenshot 2024-04-26 182743.png>)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![alt text](<Screenshot 2024-04-26 182758.png>)
 
 ## RESULT:
